@@ -66,10 +66,10 @@ Record two short clips (~10 seconds each) and place in `audio/`:
 
 | File | Language |
 |---|---|
-| `audio/laxmikant_en.wav` | English |
+| `audio/ref_en.wav` | English |
 | `audio/laxmikant_hi.wav` | Hindi |
 
-Transcripts are already in `audio/laxmikant_en_ref.txt` and `audio/laxmikant_hi_ref.txt`.
+Transcripts are already in `audio/ref_en.txt` and `audio/laxmikant_hi_ref.txt`.
 
 ---
 
