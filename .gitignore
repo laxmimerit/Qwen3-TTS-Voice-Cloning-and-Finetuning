@@ -1,0 +1,32 @@
+# virtual environment
+.venv/
+
+# Claude settings
+.claude/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Audio files
+audio/*.wav
+
+# Generated output
+output/*
+!output/.gitkeep
+
+# Finetune data & checkpoints
+finetune/data/*
+!finetune/data/.gitkeep
+
+finetune/raw_recordings/*
+!finetune/raw_recordings/.gitkeep
+
+finetune/checkpoints/*
+!finetune/checkpoints/.gitkeep
+
+finetune/train_raw.jsonl
+finetune/train_with_codes.jsonl
+
+# Cloned external scripts (see SETUP.md to restore)
+finetune/scripts/
