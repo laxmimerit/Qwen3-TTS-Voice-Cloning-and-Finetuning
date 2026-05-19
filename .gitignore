@@ -8,9 +8,6 @@
 __pycache__/
 *.pyc
 
-# Audio files
-audio/*.wav
-
 # Generated output
 output/*
 !output/.gitkeep
