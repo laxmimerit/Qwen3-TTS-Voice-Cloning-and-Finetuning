@@ -24,6 +24,3 @@ finetune/checkpoints/*
 
 finetune/train_raw.jsonl
 finetune/train_with_codes.jsonl
-
-# Cloned external scripts (see SETUP.md to restore)
-finetune/scripts/
