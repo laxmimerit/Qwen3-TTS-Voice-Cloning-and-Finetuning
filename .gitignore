@@ -24,3 +24,6 @@ finetune/checkpoints/*
 
 finetune/train_raw.jsonl
 finetune/train_with_codes.jsonl
+
+
+finetune/scripts/*
